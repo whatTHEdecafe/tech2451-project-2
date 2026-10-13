@@ -1,0 +1,7 @@
+{
+  "id": { "S": "1" },
+  "provider_id": { "S": "provider-001" },
+  "campaign_id": { "S": "campaign-001" },
+  "name": { "S": "20 Percent Off" },
+  "discount": { "N": "20" }
+}

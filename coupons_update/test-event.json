@@ -1,0 +1,6 @@
+{
+  "pathParameters": {
+    "id": "1"
+  },
+  "body": "{\"provider_id\":\"provider-001\",\"campaign_id\":\"campaign-001\",\"name\":\"25 Percent Off\",\"discount\":25}"
+}
